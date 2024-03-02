@@ -1,8 +1,8 @@
 # Sistema Estudantil Instituto Federeal
 > Status: ⚠️ em desenvolvimento ⚠️
 
-    O SEIF é um programa de gerênciamento de alunos limitados com função básicas e simples para o começo de seu objetivo. 
-    A principio ele vem com as funções de imprimir, inserir, remover, editar e buscar pelo nome.
+O SEIF é um programa de gerênciamento de alunos limitados com função básicas e simples para o começo de seu objetivo. 
+A principio ele vem com as funções de imprimir, inserir, remover, editar e buscar pelo nome.
 
 ## Introdução
 Bem vindos ao S.E.I.F, um programa que visa a eficiência no gerênciamento estudantil.
